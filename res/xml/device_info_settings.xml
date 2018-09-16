@@ -120,7 +120,7 @@
                 android:title="@string/kernel_version"
                 android:summary="@string/summary_placeholder"/>
 
-        <!-- Build date -->
+        <!-- Build date 1 -->
         <org.lineageos.internal.preference.deviceinfo.LineageBuildDatePreference
                 android:key="build_date" />
 
